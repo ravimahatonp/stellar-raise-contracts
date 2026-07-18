@@ -47,10 +47,9 @@ yarn-debug.log*
 yarn-error.log*
 
 # Env
-.env
-.env.*
 !.env.example
 
 # Misc
 *.bak
 *.tmp
+config.bat
