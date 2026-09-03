@@ -47,8 +47,6 @@ yarn-debug.log*
 yarn-error.log*
 
 # Env
-.env
-.env.*
 !.env.example
 
 # Misc
@@ -57,3 +55,4 @@ yarn-error.log*
 
 # Audit / Issue tracking
 somzilla.md
+config.bat
